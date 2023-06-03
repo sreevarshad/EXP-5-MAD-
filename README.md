@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-## OUTPUT:
+### OUTPUT:
 
 ![](https://github.com/KATHIR1611/EXP-5-MAD-/blob/main/mn%201.png)
 
@@ -156,5 +156,5 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-## RESULT:
+### RESULT:
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
