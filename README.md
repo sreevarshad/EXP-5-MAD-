@@ -1,5 +1,5 @@
 
-# Ex.No:5 Create Your Own Content Providers to get Contacts details.
+# Ex.No:5 Create Your Own Content Providers to get Contacts details
 
 
 ### AIM:
@@ -8,7 +8,7 @@ To create your own content providers to get contacts details using Android Studi
 
 ### EQUIPMENTS REQUIRED:
 
-Android Studio(Latest Version)
+Android Studio(Latest Version).
 
 ### ALGORITHM:
 
@@ -64,7 +64,7 @@ AndroidManifest.xml
 </manifest>
 ```
 
-Activity_main.xml
+activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
