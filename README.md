@@ -146,13 +146,12 @@ public class MainActivity extends AppCompatActivity {
         getPhoneContacts();
     }
 }
-
 ```
 ### OUTPUT:
 
 ![](https://github.com/sreevarshad/EXP-5-MAD-/blob/main/mmm%205.png)
 
-![](https://github.com/KATHIR1611/EXP-5-MAD-/blob/main/mn%201.png)
+<img src="https://github.com/KATHIR1611/EXP-5-MAD-/blob/main/mn%201.png" width=300 height=400>
 
 ![](https://github.com/KATHIR1611/EXP-5-MAD-/blob/main/mn%202.png)
 
